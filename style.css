@@ -1,0 +1,19 @@
+body{
+    background-color:peachpuff ;
+    background:linear-gradient( to right ,rgb(94, 79, 104),rgb(180, 151, 97));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;}
+ h1{ color:(black);
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ text-decoration: black underline;
+ background:linear-gradient( to right ,rgb(188, 142, 216),rgb(228, 177, 81));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    }
+ p{background-color: rgb(216, 130, 54);
+   border-spacing: 10cm ;
+   border-style: outset;
+   }
+   h4{color: rgba(244, 173, 8, 0.745) ;}
